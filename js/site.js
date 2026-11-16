@@ -1,6 +1,7 @@
 /* Trotec Solutions site behavior: quick quote hand-off, quote form prefill, staging form notice. */
 (function () {
   var STAGING = document.body.dataset.staging === '1';
+  var ES = /^es/i.test(document.documentElement.lang || '');
 
   // Home repair tag: send manufacturer, component and model on to the full quote form.
   var qq = document.getElementById('quick-quote');
@@ -10,7 +11,7 @@
       var maker = qq.manufacturer.value, type = qq.component.value;
       if (!maker || !type) {
         e.preventDefault();
-        msg.textContent = 'Choose a manufacturer and a component to continue.';
+        msg.textContent = ES ? 'Elija un fabricante y un componente para continuar.' : 'Choose a manufacturer and a component to continue.';
         msg.hidden = false;
         (maker ? qq.component : qq.manufacturer).focus();
       }
@@ -38,7 +39,7 @@
       e.preventDefault();
       if (!f.checkValidity()) { f.reportValidity(); return; }
       var m = f.querySelector('.form-msg');
-      if (m) { m.textContent = 'Preview only: on the live site this sends your request to Trotec Solutions and opens a confirmation page.'; m.hidden = false; m.focus(); }
+      if (m) { m.textContent = ES ? 'Solo vista previa: en el sitio real, esto envía su solicitud a Trotec Solutions y abre una página de confirmación.' : 'Preview only: on the live site this sends your request to Trotec Solutions and opens a confirmation page.'; m.hidden = false; m.focus(); }
     });
   });
 })();

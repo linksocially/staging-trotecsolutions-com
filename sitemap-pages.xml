@@ -1,25 +1,311 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://trotecsolutions.com/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/about/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/adixen-turbo-pump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/contact/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/cryopump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/ebara-turbo-pump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/edwards-turbo-pump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/fab-support/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/leybold-turbo-pump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/maglev-turbo-pump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/mitsubishi-turbo-pump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/osaka-turbo-pump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/pfeiffer-turbo-pump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/rebuilt-turbo-pumps/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/request-a-quote/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/shimadzu-turbo-pump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/ship-a-pump-for-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/site-map/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/turbo-pump-controller-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/turbo-pump-exchange/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/turbo-pump-repair/</loc><lastmod>2026-11-04</lastmod></url>
-  <url><loc>https://trotecsolutions.com/warranty/</loc><lastmod>2026-11-04</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://trotecsolutions.com/en-us/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/about/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/about/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/about/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/nosotros/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/about/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/about/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/adixen-turbo-pump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/adixen-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-adixen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/adixen-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-adixen/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/adixen-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-adixen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/adixen-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/contact/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/contact/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/contacto/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/contact/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/cryopump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/cryopump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-criobombas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/cryopump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-criobombas/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/cryopump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-criobombas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/cryopump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/ebara-turbo-pump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/ebara-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-ebara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/ebara-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-ebara/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/ebara-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-ebara/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/ebara-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/edwards-turbo-pump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/edwards-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-edwards/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/edwards-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-edwards/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/edwards-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-edwards/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/edwards-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/fab-support/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/fab-support/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/soporte-para-fabs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/fab-support/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/soporte-para-fabs/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/fab-support/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/soporte-para-fabs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/fab-support/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/leybold-turbo-pump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/leybold-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-leybold/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/leybold-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-leybold/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/leybold-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-leybold/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/leybold-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/maglev-turbo-pump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/maglev-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-maglev/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/maglev-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-maglev/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/maglev-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-maglev/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/maglev-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/mitsubishi-turbo-pump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/mitsubishi-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-mitsubishi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/mitsubishi-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-mitsubishi/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/mitsubishi-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-mitsubishi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/mitsubishi-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/osaka-turbo-pump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/osaka-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-osaka/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/osaka-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-osaka/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/osaka-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-osaka/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/osaka-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/pfeiffer-turbo-pump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/pfeiffer-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-pfeiffer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/pfeiffer-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-pfeiffer/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/pfeiffer-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-pfeiffer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/pfeiffer-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/rebuilt-turbo-pumps/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/rebuilt-turbo-pumps/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/bombas-turbo-reconstruidas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/rebuilt-turbo-pumps/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/bombas-turbo-reconstruidas/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/rebuilt-turbo-pumps/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/bombas-turbo-reconstruidas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/rebuilt-turbo-pumps/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/request-a-quote/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/request-a-quote/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/solicitar-cotizacion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/request-a-quote/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/solicitar-cotizacion/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/request-a-quote/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/solicitar-cotizacion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/request-a-quote/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/shimadzu-turbo-pump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/shimadzu-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-shimadzu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/shimadzu-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-shimadzu/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/shimadzu-turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo-shimadzu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/shimadzu-turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/ship-a-pump-for-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/ship-a-pump-for-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/enviar-bomba-a-reparacion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/ship-a-pump-for-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/enviar-bomba-a-reparacion/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/ship-a-pump-for-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/enviar-bomba-a-reparacion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/ship-a-pump-for-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/site-map/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/site-map/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/mapa-del-sitio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/site-map/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/mapa-del-sitio/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/site-map/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/mapa-del-sitio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/site-map/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/turbo-pump-controller-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/turbo-pump-controller-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-controladores-de-bombas-turbo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/turbo-pump-controller-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-controladores-de-bombas-turbo/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/turbo-pump-controller-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-controladores-de-bombas-turbo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/turbo-pump-controller-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/turbo-pump-exchange/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/turbo-pump-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/intercambio-de-bombas-turbo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/turbo-pump-exchange/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/intercambio-de-bombas-turbo/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/turbo-pump-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/intercambio-de-bombas-turbo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/turbo-pump-exchange/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/turbo-pump-repair/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/turbo-pump-repair/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/reparacion-de-bombas-turbo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/turbo-pump-repair/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/en-us/warranty/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/warranty/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/garantia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/warranty/"/>
+  </url>
+  <url>
+    <loc>https://trotecsolutions.com/es-us/garantia/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://trotecsolutions.com/en-us/warranty/"/>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://trotecsolutions.com/es-us/garantia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://trotecsolutions.com/en-us/warranty/"/>
+  </url>
 </urlset>
