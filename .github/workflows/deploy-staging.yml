@@ -1,0 +1,42 @@
+# Publishes the site to staging.trotecsolutions.com whenever the deploy branch changes.
+# Needs three repository secrets (Settings > Secrets and variables > Actions):
+#   FTP_SERVER    e.g. ftp.trotecsolutions.com
+#   FTP_USERNAME  the staging subdomain's FTP user
+#   FTP_PASSWORD  its password
+# Optional: FTP_SERVER_DIR (default ./ = the FTP user's home, usually the subdomain's document root)
+name: Deploy to staging
+
+on:
+  push:
+    branches: [deploy]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-staging
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      HAS_FTP: ${{ secrets.FTP_SERVER != '' && secrets.FTP_USERNAME != '' && secrets.FTP_PASSWORD != '' }}
+    steps:
+      - name: Check FTP secrets
+        if: env.HAS_FTP != 'true'
+        run: echo "::warning::FTP secrets are not set, so nothing was uploaded. Add FTP_SERVER, FTP_USERNAME and FTP_PASSWORD."
+      - uses: actions/checkout@v4
+        if: env.HAS_FTP == 'true'
+      - name: Upload changed files over FTPS
+        if: env.HAS_FTP == 'true'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          server-dir: ${{ secrets.FTP_SERVER_DIR || './' }}
+          exclude: |
+            **/.git*
+            **/.git*/**
+            .github/**
+            README.md
