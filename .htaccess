@@ -1,0 +1,44 @@
+# Trotec Solutions: staging. Keep the noindex header until launch day.
+Header always set X-Robots-Tag "noindex, nofollow"
+
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404/index.html
+
+RewriteEngine On
+# HTTPS (add the www to bare domain rule when the production host is set)
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Earlier staging addresses move to the root
+RewriteRule ^en-us/?(.*)$ /$1 [L,R=301,NC]
+RewriteRule ^arizona-fab-field-service/?$ /fab-support/ [L,R=301,NC]
+
+# Old site addresses to their new pages (one 301 each).
+# index.html is matched on the browser's request only, so the DirectoryIndex lookup for / never loops.
+RewriteCond %{THE_REQUEST} \s/index\.html[\s?] [NC]
+RewriteRule ^index\.html$ / [L,R=301,NC]
+RewriteRule ^About\.html$ /about/ [L,R=301,NC]
+RewriteRule ^Inventory\.html$ /rebuilt-turbo-pumps/ [L,R=301,NC]
+RewriteRule ^Turbo-Pump-Repair\.html$ /turbo-pump-repair/ [L,R=301,NC]
+RewriteRule ^Cryogenic-Pump\.html$ /cryopump-repair/ [L,R=301,NC]
+RewriteRule ^Electronics-And-Controller-Repair\.html$ /turbo-pump-controller-repair/ [L,R=301,NC]
+RewriteRule ^FAB-Support\.html$ /fab-support/ [L,R=301,NC]
+RewriteRule ^RequestQuote\.html$ /request-a-quote/ [L,R=301,NC]
+RewriteRule ^Contact\.html$ /contact/ [L,R=301,NC]
+
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' https://www.googletagmanager.com https://*.clarity.ms https://c.bing.com; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://www.googletagmanager.com https://*.google-analytics.com https://*.clarity.ms https://c.bing.com; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.google.com https://*.clarity.ms https://c.bing.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self'"
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+</IfModule>
